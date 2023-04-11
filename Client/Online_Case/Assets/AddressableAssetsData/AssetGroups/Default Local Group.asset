@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Default Local Group
+  m_EditorClassIdentifier: 
+  m_GroupName: Default Local Group
+  m_Data:
+    m_SerializedData: []
+  m_GUID: adb38e9818a5a8b4aa7751b3f3b98a05
+  m_SerializeEntries:
+  - m_GUID: 9fc0d4010bbf28b4594072e72b8655ab
+    m_Address: Menu
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 717f635ddf8e2ed408269965b3d1cd69
+    m_Address: JoinOrCreateRoomPanel
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 0549e812b5f61c442ac46f9caa1876e7
+    m_Address: GameMenuPanel
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 6a8fc505c9b684a4091ac5975f5f1381
+    m_Address: SelfCharacter
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 839083721f364b348b5f105ba90e9173
+    m_Address: OtherCharacter
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 9106d0085a864744f86184ee56d1f1d8, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 33ce2d491c803bf4793ae5bf2e0e4c8b, type: 2}
+    - {fileID: 11400000, guid: 432526ca94a82f84396200fd0b31c693, type: 2}

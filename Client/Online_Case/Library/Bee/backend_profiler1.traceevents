@@ -1,0 +1,677 @@
+{ "cat":"", "pid":12345, "tid":0, "ts":0, "ph":"M", "name":"process_name", "args": { "name":"bee_backend" } }
+,{ "pid":12345, "tid":0, "ts":1681246825228149, "dur":1114, "ph":"X", "name": "DriverInitData",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1681246825229274, "dur":937, "ph":"X", "name": "Tundra",  "args": { "detail":"RemoveStaleOutputs" }}
+,{ "pid":12345, "tid":0, "ts":1681246825230222, "dur":21, "ph":"X", "name": "Tundra",  "args": { "detail":"PrepareNodes" }}
+,{ "pid":12345, "tid":0, "ts":1681246825230243, "dur":406, "ph":"X", "name": "Tundra",  "args": { "detail":"BuildQueueInit" }}
+,{ "pid":12345, "tid":0, "ts":1681246825230681, "dur":823, "ph":"X", "name": "EnqueueRequestedNodes",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1681246825231504, "dur":1, "ph":"X", "name": "SortWorkingStack",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1681246826975012, "dur":164, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1681246826975176, "dur":8, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1681246826975184, "dur":2, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1681246826975186, "dur":6, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1681246826975192, "dur":2, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1681246826975194, "dur":6, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1681246826975200, "dur":2, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1681246826975202, "dur":5, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1681246826975207, "dur":2, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1681246826975209, "dur":6, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1681246826975215, "dur":2, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1681246826975217, "dur":6, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1681246826975223, "dur":2, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1681246826975225, "dur":7, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1681246826975232, "dur":2, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1681246826975234, "dur":6, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1681246826975240, "dur":0, "ph":"X", "name": "SharedResourceDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1681246826975248, "dur":1, "ph":"X", "name": "BuildQueueDestroyTail",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1681246826975300, "dur":1558, "ph":"X", "name": "Tundra",  "args": { "detail":"Write AllBuiltNodes" }}
+,{ "pid":12345, "tid":1, "ts":1681246825231615, "dur":0, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1681246825231615, "dur":5857, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1681246825237472, "dur":82, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Samet Kser/Desktop/Online_Case_Study/deneme/deneme1/MonoBleedingEdge/etc/mono/4.5/settings.map" }}
+,{ "pid":12345, "tid":1, "ts":1681246825237555, "dur":80, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1681246825237641, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1681246825240111, "dur":2217, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Samet Kser/Desktop/Online_Case_Study/deneme/deneme1/MonoBleedingEdge/etc/mono/4.5/settings.map" }}
+,{ "pid":12345, "tid":1, "ts":1681246825242366, "dur":37, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Samet Kser/Desktop/Online_Case_Study/deneme/deneme1/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":1, "ts":1681246825242403, "dur":51, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1681246825242460, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1681246825242468, "dur":3034, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Samet Kser/Desktop/Online_Case_Study/deneme/deneme1/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":1, "ts":1681246825245534, "dur":36, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Samet Kser/Desktop/Online_Case_Study/deneme/deneme1/Online_Case.exe" }}
+,{ "pid":12345, "tid":1, "ts":1681246825245570, "dur":20, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1681246825245598, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1681246825245604, "dur":146126, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Samet Kser/Desktop/Online_Case_Study/deneme/deneme1/Online_Case.exe" }}
+,{ "pid":12345, "tid":1, "ts":1681246825391767, "dur":43, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Samet Kser/Desktop/Online_Case_Study/deneme/deneme1/Online_Case_Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1681246825391811, "dur":35, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1681246825391852, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1681246825391859, "dur":60922, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Samet Kser/Desktop/Online_Case_Study/deneme/deneme1/Online_Case_Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1681246825452820, "dur":33, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Samet Kser/Desktop/Online_Case_Study/deneme/deneme1/Online_Case_Data/Managed/UnityEngine.UnityConnectModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1681246825452853, "dur":28, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1681246825452915, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1681246825452926, "dur":64744, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Samet Kser/Desktop/Online_Case_Study/deneme/deneme1/Online_Case_Data/Managed/UnityEngine.UnityConnectModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1681246825517719, "dur":52, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Samet Kser/Desktop/Online_Case_Study/deneme/deneme1/Online_Case_Data/Managed/UnityEngine.UIElementsNativeModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1681246825517772, "dur":53, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1681246825517838, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1681246825517860, "dur":114629, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Samet Kser/Desktop/Online_Case_Study/deneme/deneme1/Online_Case_Data/Managed/UnityEngine.UIElementsNativeModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1681246825632521, "dur":30, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Samet Kser/Desktop/Online_Case_Study/deneme/deneme1/Online_Case_Data/Managed/UnityEngine.SubsystemsModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1681246825632551, "dur":28, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1681246825632585, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1681246825632593, "dur":106585, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Samet Kser/Desktop/Online_Case_Study/deneme/deneme1/Online_Case_Data/Managed/UnityEngine.SubsystemsModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1681246825739208, "dur":30, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Samet Kser/Desktop/Online_Case_Study/deneme/deneme1/Online_Case_Data/Managed/UnityEngine.SharedInternalsModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1681246825739238, "dur":24, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1681246825739268, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1681246825739277, "dur":85398, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Samet Kser/Desktop/Online_Case_Study/deneme/deneme1/Online_Case_Data/Managed/UnityEngine.SharedInternalsModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1681246825824717, "dur":41, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Samet Kser/Desktop/Online_Case_Study/deneme/deneme1/Online_Case_Data/Managed/UnityEngine.LocalizationModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1681246825824759, "dur":29, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1681246825824795, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1681246825824806, "dur":49370, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Samet Kser/Desktop/Online_Case_Study/deneme/deneme1/Online_Case_Data/Managed/UnityEngine.LocalizationModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1681246825874217, "dur":33, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Samet Kser/Desktop/Online_Case_Study/deneme/deneme1/Online_Case_Data/Managed/UnityEngine.HotReloadModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1681246825874251, "dur":30, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1681246825874288, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1681246825874299, "dur":73620, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Samet Kser/Desktop/Online_Case_Study/deneme/deneme1/Online_Case_Data/Managed/UnityEngine.HotReloadModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1681246825947953, "dur":31, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Samet Kser/Desktop/Online_Case_Study/deneme/deneme1/Online_Case_Data/Managed/UnityEngine.CoreModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1681246825947984, "dur":26, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1681246825948038, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1681246825948048, "dur":184935, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Samet Kser/Desktop/Online_Case_Study/deneme/deneme1/Online_Case_Data/Managed/UnityEngine.CoreModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1681246826133018, "dur":46535, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Samet Kser/Desktop/Online_Case_Study/deneme/deneme1/Online_Case_Data/Managed/Unity.Services.Core.Scheduler.dll" }}
+,{ "pid":12345, "tid":1, "ts":1681246826179553, "dur":53, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1681246826179615, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1681246826179626, "dur":891, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Samet Kser/Desktop/Online_Case_Study/deneme/deneme1/Online_Case_Data/Managed/Unity.Services.Core.Scheduler.dll" }}
+,{ "pid":12345, "tid":1, "ts":1681246826180552, "dur":773, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Samet Kser/Desktop/Online_Case_Study/deneme/deneme1/Online_Case_Data/Managed/Unity.Services.Core.Networking.dll" }}
+,{ "pid":12345, "tid":1, "ts":1681246826181326, "dur":38, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1681246826181441, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1681246826181453, "dur":824, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Samet Kser/Desktop/Online_Case_Study/deneme/deneme1/Online_Case_Data/Managed/Unity.Services.Core.Networking.dll" }}
+,{ "pid":12345, "tid":1, "ts":1681246826182311, "dur":76933, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Samet Kser/Desktop/Online_Case_Study/deneme/deneme1/Online_Case_Data/Managed/Unity.Services.Core.Internal.dll" }}
+,{ "pid":12345, "tid":1, "ts":1681246826259245, "dur":53, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1681246826259307, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1681246826259319, "dur":1069, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Samet Kser/Desktop/Online_Case_Study/deneme/deneme1/Online_Case_Data/Managed/Unity.Services.Core.Internal.dll" }}
+,{ "pid":12345, "tid":1, "ts":1681246826260420, "dur":30, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Samet Kser/Desktop/Online_Case_Study/deneme/deneme1/Online_Case_Data/Managed/System.ServiceModel.Internals.dll" }}
+,{ "pid":12345, "tid":1, "ts":1681246826260451, "dur":26, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1681246826260484, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1681246826260493, "dur":145307, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Samet Kser/Desktop/Online_Case_Study/deneme/deneme1/Online_Case_Data/Managed/System.ServiceModel.Internals.dll" }}
+,{ "pid":12345, "tid":1, "ts":1681246826405856, "dur":44, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Samet Kser/Desktop/Online_Case_Study/deneme/deneme1/Online_Case_Data/Managed/System.IO.Compression.dll" }}
+,{ "pid":12345, "tid":1, "ts":1681246826405901, "dur":29, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1681246826405942, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1681246826405976, "dur":148230, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Samet Kser/Desktop/Online_Case_Study/deneme/deneme1/Online_Case_Data/Managed/System.IO.Compression.dll" }}
+,{ "pid":12345, "tid":1, "ts":1681246826554241, "dur":32, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Samet Kser/Desktop/Online_Case_Study/deneme/deneme1/Online_Case_Data/Managed/System.Configuration.dll" }}
+,{ "pid":12345, "tid":1, "ts":1681246826554274, "dur":26, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1681246826554307, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1681246826554317, "dur":176483, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Samet Kser/Desktop/Online_Case_Study/deneme/deneme1/Online_Case_Data/Managed/System.Configuration.dll" }}
+,{ "pid":12345, "tid":1, "ts":1681246826730835, "dur":32, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Samet Kser/Desktop/Online_Case_Study/deneme/deneme1/Online_Case_Data/Managed/LucidSightTools.dll" }}
+,{ "pid":12345, "tid":1, "ts":1681246826730867, "dur":26, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1681246826730899, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1681246826730910, "dur":56007, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Samet Kser/Desktop/Online_Case_Study/deneme/deneme1/Online_Case_Data/Managed/LucidSightTools.dll" }}
+,{ "pid":12345, "tid":1, "ts":1681246826786962, "dur":37, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Samet Kser/Desktop/Online_Case_Study/deneme/deneme1/Online_Case_Data/resources.assets" }}
+,{ "pid":12345, "tid":1, "ts":1681246826787004, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1681246826787011, "dur":1718, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Samet Kser/Desktop/Online_Case_Study/deneme/deneme1/Online_Case_Data/resources.assets" }}
+,{ "pid":12345, "tid":1, "ts":1681246826788763, "dur":44, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Samet Kser/Desktop/Online_Case_Study/deneme/deneme1/Online_Case_Data/globalgamemanagers" }}
+,{ "pid":12345, "tid":1, "ts":1681246826788836, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1681246826788845, "dur":1513, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Samet Kser/Desktop/Online_Case_Study/deneme/deneme1/Online_Case_Data/globalgamemanagers" }}
+,{ "pid":12345, "tid":1, "ts":1681246826790389, "dur":184643, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1681246825231364, "dur":181, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1681246825231545, "dur":5927, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1681246825237473, "dur":76, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Samet Kser/Desktop/Online_Case_Study/deneme/deneme1/MonoBleedingEdge/etc/mono/4.5/machine.config" }}
+,{ "pid":12345, "tid":2, "ts":1681246825237550, "dur":85, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1681246825237641, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1681246825239888, "dur":5595, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Samet Kser/Desktop/Online_Case_Study/deneme/deneme1/MonoBleedingEdge/etc/mono/4.5/machine.config" }}
+,{ "pid":12345, "tid":2, "ts":1681246825245519, "dur":34, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Samet Kser/Desktop/Online_Case_Study/deneme/deneme1/UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":2, "ts":1681246825245553, "dur":22, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1681246825245580, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1681246825245586, "dur":134352, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Samet Kser/Desktop/Online_Case_Study/deneme/deneme1/UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":2, "ts":1681246825379989, "dur":79, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Samet Kser/Desktop/Online_Case_Study/deneme/deneme1/Online_Case_Data/Managed/UnityEngine.VirtualTexturingModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1681246825380068, "dur":10764, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1681246825390843, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1681246825390855, "dur":91827, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Samet Kser/Desktop/Online_Case_Study/deneme/deneme1/Online_Case_Data/Managed/UnityEngine.VirtualTexturingModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1681246825482746, "dur":35, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Samet Kser/Desktop/Online_Case_Study/deneme/deneme1/Online_Case_Data/Managed/UnityEngine.UnityAnalyticsModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1681246825482781, "dur":27, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1681246825482815, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1681246825482846, "dur":128911, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Samet Kser/Desktop/Online_Case_Study/deneme/deneme1/Online_Case_Data/Managed/UnityEngine.UnityAnalyticsModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1681246825611795, "dur":39, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Samet Kser/Desktop/Online_Case_Study/deneme/deneme1/Online_Case_Data/Managed/UnityEngine.TextCoreTextEngineModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1681246825611835, "dur":25, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1681246825611867, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1681246825611878, "dur":152228, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Samet Kser/Desktop/Online_Case_Study/deneme/deneme1/Online_Case_Data/Managed/UnityEngine.TextCoreTextEngineModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1681246825764144, "dur":55, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Samet Kser/Desktop/Online_Case_Study/deneme/deneme1/Online_Case_Data/Managed/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1681246825764199, "dur":30, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1681246825764237, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1681246825764249, "dur":43547, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Samet Kser/Desktop/Online_Case_Study/deneme/deneme1/Online_Case_Data/Managed/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1681246825807832, "dur":35, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Samet Kser/Desktop/Online_Case_Study/deneme/deneme1/Online_Case_Data/Managed/UnityEngine.NVIDIAModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1681246825807867, "dur":25, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1681246825807899, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1681246825807909, "dur":55104, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Samet Kser/Desktop/Online_Case_Study/deneme/deneme1/Online_Case_Data/Managed/UnityEngine.NVIDIAModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1681246825863047, "dur":32, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Samet Kser/Desktop/Online_Case_Study/deneme/deneme1/Online_Case_Data/Managed/UnityEngine.ImageConversionModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1681246825863080, "dur":26, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1681246825863113, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1681246825863123, "dur":49879, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Samet Kser/Desktop/Online_Case_Study/deneme/deneme1/Online_Case_Data/Managed/UnityEngine.ImageConversionModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1681246825913040, "dur":35, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Samet Kser/Desktop/Online_Case_Study/deneme/deneme1/Online_Case_Data/Managed/UnityEngine.DSPGraphModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1681246825913075, "dur":27, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1681246825913109, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1681246825913118, "dur":69861, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Samet Kser/Desktop/Online_Case_Study/deneme/deneme1/Online_Case_Data/Managed/UnityEngine.DSPGraphModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1681246825983013, "dur":35, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Samet Kser/Desktop/Online_Case_Study/deneme/deneme1/Online_Case_Data/Managed/UnityEngine.ClothModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1681246825983048, "dur":26, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1681246825983081, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1681246825983092, "dur":48999, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Samet Kser/Desktop/Online_Case_Study/deneme/deneme1/Online_Case_Data/Managed/UnityEngine.ClothModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1681246826032124, "dur":33, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Samet Kser/Desktop/Online_Case_Study/deneme/deneme1/Online_Case_Data/Managed/UnityEngine.AIModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1681246826032157, "dur":28, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1681246826032212, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1681246826032223, "dur":64908, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Samet Kser/Desktop/Online_Case_Study/deneme/deneme1/Online_Case_Data/Managed/UnityEngine.AIModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1681246826097167, "dur":412392, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Samet Kser/Desktop/Online_Case_Study/deneme/deneme1/Online_Case_Data/Managed/Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":2, "ts":1681246826509560, "dur":55, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1681246826509624, "dur":7, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1681246826509663, "dur":1249, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Samet Kser/Desktop/Online_Case_Study/deneme/deneme1/Online_Case_Data/Managed/Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":2, "ts":1681246826510945, "dur":33, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Samet Kser/Desktop/Online_Case_Study/deneme/deneme1/Online_Case_Data/Managed/System.Data.DataSetExtensions.dll" }}
+,{ "pid":12345, "tid":2, "ts":1681246826510978, "dur":26, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1681246826511011, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1681246826511021, "dur":76460, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Samet Kser/Desktop/Online_Case_Study/deneme/deneme1/Online_Case_Data/Managed/System.Data.DataSetExtensions.dll" }}
+,{ "pid":12345, "tid":2, "ts":1681246826587517, "dur":35, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Samet Kser/Desktop/Online_Case_Study/deneme/deneme1/Online_Case_Data/Managed/Newtonsoft.Json.dll" }}
+,{ "pid":12345, "tid":2, "ts":1681246826587552, "dur":26, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1681246826587607, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1681246826587618, "dur":169624, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Samet Kser/Desktop/Online_Case_Study/deneme/deneme1/Online_Case_Data/Managed/Newtonsoft.Json.dll" }}
+,{ "pid":12345, "tid":2, "ts":1681246826757276, "dur":57475, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Samet Kser/Desktop/Online_Case_Study/deneme/deneme1/Online_Case_Data/Managed/Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":2, "ts":1681246826814761, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1681246826814773, "dur":1002, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Samet Kser/Desktop/Online_Case_Study/deneme/deneme1/Online_Case_Data/Managed/Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":2, "ts":1681246826815809, "dur":159211, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1681246825231401, "dur":150, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1681246825231551, "dur":5944, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1681246825237496, "dur":53, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Samet Kser/Desktop/Online_Case_Study/deneme/deneme1/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":3, "ts":1681246825237549, "dur":40, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1681246825237597, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1681246825239353, "dur":3570, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Samet Kser/Desktop/Online_Case_Study/deneme/deneme1/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":3, "ts":1681246825242956, "dur":33, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Samet Kser/Desktop/Online_Case_Study/deneme/deneme1/MonoBleedingEdge/etc/mono/2.0/settings.map" }}
+,{ "pid":12345, "tid":3, "ts":1681246825242989, "dur":54, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1681246825243050, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1681246825243103, "dur":857, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Samet Kser/Desktop/Online_Case_Study/deneme/deneme1/MonoBleedingEdge/etc/mono/2.0/settings.map" }}
+,{ "pid":12345, "tid":3, "ts":1681246825244014, "dur":40, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Samet Kser/Desktop/Online_Case_Study/deneme/deneme1/MonoBleedingEdge/etc/mono/config" }}
+,{ "pid":12345, "tid":3, "ts":1681246825244054, "dur":21, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1681246825244082, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1681246825244090, "dur":1779, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Samet Kser/Desktop/Online_Case_Study/deneme/deneme1/MonoBleedingEdge/etc/mono/config" }}
+,{ "pid":12345, "tid":3, "ts":1681246825245914, "dur":35, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Samet Kser/Desktop/Online_Case_Study/deneme/deneme1/Online_Case_Data/Resources/unity default resources" }}
+,{ "pid":12345, "tid":3, "ts":1681246825245950, "dur":36, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1681246825245991, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1681246825246257, "dur":182982, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Samet Kser/Desktop/Online_Case_Study/deneme/deneme1/Online_Case_Data/Resources/unity default resources" }}
+,{ "pid":12345, "tid":3, "ts":1681246825429281, "dur":39, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Samet Kser/Desktop/Online_Case_Study/deneme/deneme1/Online_Case_Data/Managed/UnityEngine.UnityWebRequestModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1681246825429320, "dur":31, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1681246825429358, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1681246825429371, "dur":202272, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Samet Kser/Desktop/Online_Case_Study/deneme/deneme1/Online_Case_Data/Managed/UnityEngine.UnityWebRequestModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1681246825631701, "dur":36, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Samet Kser/Desktop/Online_Case_Study/deneme/deneme1/Online_Case_Data/Managed/UnityEngine.TerrainPhysicsModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1681246825631738, "dur":7236, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1681246825640048, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1681246825640069, "dur":64803, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Samet Kser/Desktop/Online_Case_Study/deneme/deneme1/Online_Case_Data/Managed/UnityEngine.TerrainPhysicsModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1681246825704908, "dur":32, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Samet Kser/Desktop/Online_Case_Study/deneme/deneme1/Online_Case_Data/Managed/UnityEngine.StreamingModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1681246825704940, "dur":24, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1681246825704993, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1681246825705003, "dur":61659, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Samet Kser/Desktop/Online_Case_Study/deneme/deneme1/Online_Case_Data/Managed/UnityEngine.StreamingModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1681246825766697, "dur":5582, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Samet Kser/Desktop/Online_Case_Study/deneme/deneme1/Online_Case_Data/Managed/UnityEngine.PhysicsModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1681246825772280, "dur":52, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1681246825772341, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1681246825772719, "dur":85346, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Samet Kser/Desktop/Online_Case_Study/deneme/deneme1/Online_Case_Data/Managed/UnityEngine.PhysicsModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1681246825858099, "dur":32, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Samet Kser/Desktop/Online_Case_Study/deneme/deneme1/Online_Case_Data/Managed/UnityEngine.IMGUIModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1681246825858131, "dur":26, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1681246825858163, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1681246825858187, "dur":201317, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Samet Kser/Desktop/Online_Case_Study/deneme/deneme1/Online_Case_Data/Managed/UnityEngine.IMGUIModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1681246826059546, "dur":131852, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Samet Kser/Desktop/Online_Case_Study/deneme/deneme1/Online_Case_Data/Managed/Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":3, "ts":1681246826191399, "dur":37, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1681246826191443, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1681246826191454, "dur":1237, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Samet Kser/Desktop/Online_Case_Study/deneme/deneme1/Online_Case_Data/Managed/Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":3, "ts":1681246826192724, "dur":1544, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Samet Kser/Desktop/Online_Case_Study/deneme/deneme1/Online_Case_Data/Managed/Unity.Services.Core.Environments.dll" }}
+,{ "pid":12345, "tid":3, "ts":1681246826194268, "dur":36, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1681246826194310, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1681246826194318, "dur":984, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Samet Kser/Desktop/Online_Case_Study/deneme/deneme1/Online_Case_Data/Managed/Unity.Services.Core.Environments.dll" }}
+,{ "pid":12345, "tid":3, "ts":1681246826195337, "dur":688, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Samet Kser/Desktop/Online_Case_Study/deneme/deneme1/Online_Case_Data/Managed/Unity.Services.Core.Analytics.dll" }}
+,{ "pid":12345, "tid":3, "ts":1681246826196025, "dur":36, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1681246826196069, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1681246826196079, "dur":797, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Samet Kser/Desktop/Online_Case_Study/deneme/deneme1/Online_Case_Data/Managed/Unity.Services.Core.Analytics.dll" }}
+,{ "pid":12345, "tid":3, "ts":1681246826196909, "dur":720, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Samet Kser/Desktop/Online_Case_Study/deneme/deneme1/Online_Case_Data/Managed/Unity.ScriptableBuildPipeline.dll" }}
+,{ "pid":12345, "tid":3, "ts":1681246826197629, "dur":39, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1681246826197675, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1681246826197684, "dur":827, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Samet Kser/Desktop/Online_Case_Study/deneme/deneme1/Online_Case_Data/Managed/Unity.ScriptableBuildPipeline.dll" }}
+,{ "pid":12345, "tid":3, "ts":1681246826198543, "dur":113901, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Samet Kser/Desktop/Online_Case_Study/deneme/deneme1/Online_Case_Data/Managed/Unity.ResourceManager.dll" }}
+,{ "pid":12345, "tid":3, "ts":1681246826312445, "dur":53, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1681246826312507, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1681246826312521, "dur":995, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Samet Kser/Desktop/Online_Case_Study/deneme/deneme1/Online_Case_Data/Managed/Unity.ResourceManager.dll" }}
+,{ "pid":12345, "tid":3, "ts":1681246826313549, "dur":33, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Samet Kser/Desktop/Online_Case_Study/deneme/deneme1/Online_Case_Data/Managed/System.Runtime.Serialization.dll" }}
+,{ "pid":12345, "tid":3, "ts":1681246826313583, "dur":27, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1681246826313638, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1681246826313648, "dur":250542, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Samet Kser/Desktop/Online_Case_Study/deneme/deneme1/Online_Case_Data/Managed/System.Runtime.Serialization.dll" }}
+,{ "pid":12345, "tid":3, "ts":1681246826564226, "dur":35, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Samet Kser/Desktop/Online_Case_Study/deneme/deneme1/Online_Case_Data/Managed/System.ComponentModel.Composition.dll" }}
+,{ "pid":12345, "tid":3, "ts":1681246826564262, "dur":29, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1681246826564298, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1681246826564308, "dur":161759, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Samet Kser/Desktop/Online_Case_Study/deneme/deneme1/Online_Case_Data/Managed/System.ComponentModel.Composition.dll" }}
+,{ "pid":12345, "tid":3, "ts":1681246826726105, "dur":44, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Samet Kser/Desktop/Online_Case_Study/deneme/deneme1/Online_Case_Data/Managed/Mono.Security.dll" }}
+,{ "pid":12345, "tid":3, "ts":1681246826726150, "dur":26, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1681246826726183, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1681246826726194, "dur":236319, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Samet Kser/Desktop/Online_Case_Study/deneme/deneme1/Online_Case_Data/Managed/Mono.Security.dll" }}
+,{ "pid":12345, "tid":3, "ts":1681246826962535, "dur":12496, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1681246825231249, "dur":269, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1681246825231519, "dur":5941, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1681246825237470, "dur":82, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Samet Kser/Desktop/Online_Case_Study/deneme/deneme1/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":4, "ts":1681246825237553, "dur":86, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1681246825237646, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1681246825240860, "dur":1486, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Samet Kser/Desktop/Online_Case_Study/deneme/deneme1/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":4, "ts":1681246825242386, "dur":37, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Samet Kser/Desktop/Online_Case_Study/deneme/deneme1/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":4, "ts":1681246825242423, "dur":32, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1681246825242463, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1681246825242908, "dur":809, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Samet Kser/Desktop/Online_Case_Study/deneme/deneme1/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":4, "ts":1681246825243750, "dur":34, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Samet Kser/Desktop/Online_Case_Study/deneme/deneme1/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":4, "ts":1681246825243785, "dur":29, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1681246825243820, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1681246825243832, "dur":1586, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Samet Kser/Desktop/Online_Case_Study/deneme/deneme1/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":4, "ts":1681246825245454, "dur":43, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Samet Kser/Desktop/Online_Case_Study/deneme/deneme1/UnityPlayer.dll" }}
+,{ "pid":12345, "tid":4, "ts":1681246825245497, "dur":23, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1681246825245528, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1681246825245535, "dur":189947, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Samet Kser/Desktop/Online_Case_Study/deneme/deneme1/UnityPlayer.dll" }}
+,{ "pid":12345, "tid":4, "ts":1681246825435529, "dur":48, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Samet Kser/Desktop/Online_Case_Study/deneme/deneme1/Online_Case_Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1681246825435578, "dur":32, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1681246825435616, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1681246825435626, "dur":101810, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Samet Kser/Desktop/Online_Case_Study/deneme/deneme1/Online_Case_Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1681246825537475, "dur":34, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Samet Kser/Desktop/Online_Case_Study/deneme/deneme1/Online_Case_Data/Managed/UnityEngine.UIElementsModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1681246825537509, "dur":27, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1681246825537543, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1681246825537554, "dur":295330, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Samet Kser/Desktop/Online_Case_Study/deneme/deneme1/Online_Case_Data/Managed/UnityEngine.UIElementsModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1681246825832923, "dur":39, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Samet Kser/Desktop/Online_Case_Study/deneme/deneme1/Online_Case_Data/Managed/UnityEngine.JSONSerializeModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1681246825832963, "dur":160, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1681246825833130, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1681246825833178, "dur":47860, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Samet Kser/Desktop/Online_Case_Study/deneme/deneme1/Online_Case_Data/Managed/UnityEngine.JSONSerializeModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1681246825881075, "dur":39, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Samet Kser/Desktop/Online_Case_Study/deneme/deneme1/Online_Case_Data/Managed/UnityEngine.GridModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1681246825881115, "dur":26, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1681246825881148, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1681246825881158, "dur":89672, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Samet Kser/Desktop/Online_Case_Study/deneme/deneme1/Online_Case_Data/Managed/UnityEngine.GridModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1681246825970862, "dur":38, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Samet Kser/Desktop/Online_Case_Study/deneme/deneme1/Online_Case_Data/Managed/UnityEngine.ClusterInputModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1681246825970900, "dur":29, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1681246825970935, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1681246825970945, "dur":31918, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Samet Kser/Desktop/Online_Case_Study/deneme/deneme1/Online_Case_Data/Managed/UnityEngine.ClusterInputModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1681246826002901, "dur":33, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Samet Kser/Desktop/Online_Case_Study/deneme/deneme1/Online_Case_Data/Managed/UnityEngine.AnimationModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1681246826002934, "dur":29, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1681246826002969, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1681246826002980, "dur":76764, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Samet Kser/Desktop/Online_Case_Study/deneme/deneme1/Online_Case_Data/Managed/UnityEngine.AnimationModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1681246826079791, "dur":43, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Samet Kser/Desktop/Online_Case_Study/deneme/deneme1/Online_Case_Data/Managed/Unity.VisualScripting.Antlr3.Runtime.dll" }}
+,{ "pid":12345, "tid":4, "ts":1681246826079835, "dur":28, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1681246826079870, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1681246826079881, "dur":111227, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Samet Kser/Desktop/Online_Case_Study/deneme/deneme1/Online_Case_Data/Managed/Unity.VisualScripting.Antlr3.Runtime.dll" }}
+,{ "pid":12345, "tid":4, "ts":1681246826191147, "dur":876, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Samet Kser/Desktop/Online_Case_Study/deneme/deneme1/Online_Case_Data/Managed/Unity.Services.Core.Environments.Internal.dll" }}
+,{ "pid":12345, "tid":4, "ts":1681246826192024, "dur":36, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1681246826192068, "dur":4, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1681246826192081, "dur":1124, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Samet Kser/Desktop/Online_Case_Study/deneme/deneme1/Online_Case_Data/Managed/Unity.Services.Core.Environments.Internal.dll" }}
+,{ "pid":12345, "tid":4, "ts":1681246826193239, "dur":31342, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Samet Kser/Desktop/Online_Case_Study/deneme/deneme1/Online_Case_Data/Managed/Unity.Services.Core.dll" }}
+,{ "pid":12345, "tid":4, "ts":1681246826224581, "dur":42, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1681246826224631, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1681246826224641, "dur":890, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Samet Kser/Desktop/Online_Case_Study/deneme/deneme1/Online_Case_Data/Managed/Unity.Services.Core.dll" }}
+,{ "pid":12345, "tid":4, "ts":1681246826225566, "dur":33, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Samet Kser/Desktop/Online_Case_Study/deneme/deneme1/Online_Case_Data/Managed/System.Xml.Linq.dll" }}
+,{ "pid":12345, "tid":4, "ts":1681246826225599, "dur":26, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1681246826225631, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1681246826225645, "dur":157392, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Samet Kser/Desktop/Online_Case_Study/deneme/deneme1/Online_Case_Data/Managed/System.Xml.Linq.dll" }}
+,{ "pid":12345, "tid":4, "ts":1681246826383145, "dur":42, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Samet Kser/Desktop/Online_Case_Study/deneme/deneme1/Online_Case_Data/Managed/System.IO.Compression.FileSystem.dll" }}
+,{ "pid":12345, "tid":4, "ts":1681246826383188, "dur":29, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1681246826383224, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1681246826383240, "dur":56048, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Samet Kser/Desktop/Online_Case_Study/deneme/deneme1/Online_Case_Data/Managed/System.IO.Compression.FileSystem.dll" }}
+,{ "pid":12345, "tid":4, "ts":1681246826439328, "dur":41, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Samet Kser/Desktop/Online_Case_Study/deneme/deneme1/Online_Case_Data/Managed/System.EnterpriseServices.dll" }}
+,{ "pid":12345, "tid":4, "ts":1681246826439370, "dur":29, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1681246826439407, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1681246826439419, "dur":46965, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Samet Kser/Desktop/Online_Case_Study/deneme/deneme1/Online_Case_Data/Managed/System.EnterpriseServices.dll" }}
+,{ "pid":12345, "tid":4, "ts":1681246826486417, "dur":31, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Samet Kser/Desktop/Online_Case_Study/deneme/deneme1/Online_Case_Data/Managed/System.dll" }}
+,{ "pid":12345, "tid":4, "ts":1681246826486448, "dur":30, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1681246826486484, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1681246826486494, "dur":277622, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Samet Kser/Desktop/Online_Case_Study/deneme/deneme1/Online_Case_Data/Managed/System.dll" }}
+,{ "pid":12345, "tid":4, "ts":1681246826764150, "dur":39, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Samet Kser/Desktop/Online_Case_Study/deneme/deneme1/Online_Case_Data/StreamingAssets/aa/StandaloneWindows64/defaultlocalgroup_scenes_all_afa8717b7f332b3b60450c5330198ac4.bundle" }}
+,{ "pid":12345, "tid":4, "ts":1681246826764194, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1681246826764814, "dur":9581, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Samet Kser/Desktop/Online_Case_Study/deneme/deneme1/Online_Case_Data/StreamingAssets/aa/StandaloneWindows64/defaultlocalgroup_scenes_all_afa8717b7f332b3b60450c5330198ac4.bundle" }}
+,{ "pid":12345, "tid":4, "ts":1681246826774435, "dur":41, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Samet Kser/Desktop/Online_Case_Study/deneme/deneme1/Online_Case_Data/StreamingAssets/aa/StandaloneWindows64/3547671eb8e51dc0719658ada708c2e1_unitybuiltinshaders_55418da1ff3c0c60040b2848df759ee3.bundle" }}
+,{ "pid":12345, "tid":4, "ts":1681246826774476, "dur":27, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1681246826774512, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1681246826774525, "dur":7990, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Samet Kser/Desktop/Online_Case_Study/deneme/deneme1/Online_Case_Data/StreamingAssets/aa/StandaloneWindows64/3547671eb8e51dc0719658ada708c2e1_unitybuiltinshaders_55418da1ff3c0c60040b2848df759ee3.bundle" }}
+,{ "pid":12345, "tid":4, "ts":1681246826782556, "dur":36, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Samet Kser/Desktop/Online_Case_Study/deneme/deneme1/Online_Case_Data/sharedassets0.assets.resS" }}
+,{ "pid":12345, "tid":4, "ts":1681246826782598, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1681246826782606, "dur":3293, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Samet Kser/Desktop/Online_Case_Study/deneme/deneme1/Online_Case_Data/sharedassets0.assets.resS" }}
+,{ "pid":12345, "tid":4, "ts":1681246826785930, "dur":768, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Samet Kser/Desktop/Online_Case_Study/deneme/deneme1/Online_Case_Data/RuntimeInitializeOnLoads.json" }}
+,{ "pid":12345, "tid":4, "ts":1681246826786699, "dur":36, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1681246826786741, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1681246826786750, "dur":791, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Samet Kser/Desktop/Online_Case_Study/deneme/deneme1/Online_Case_Data/RuntimeInitializeOnLoads.json" }}
+,{ "pid":12345, "tid":4, "ts":1681246826787579, "dur":40, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Samet Kser/Desktop/Online_Case_Study/deneme/deneme1/Online_Case_Data/level0.resS" }}
+,{ "pid":12345, "tid":4, "ts":1681246826787630, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1681246826787639, "dur":995, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Samet Kser/Desktop/Online_Case_Study/deneme/deneme1/Online_Case_Data/level0.resS" }}
+,{ "pid":12345, "tid":4, "ts":1681246826788666, "dur":40, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Samet Kser/Desktop/Online_Case_Study/deneme/deneme1/Online_Case_Data/globalgamemanagers.assets" }}
+,{ "pid":12345, "tid":4, "ts":1681246826788712, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1681246826788719, "dur":1271, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Samet Kser/Desktop/Online_Case_Study/deneme/deneme1/Online_Case_Data/globalgamemanagers.assets" }}
+,{ "pid":12345, "tid":4, "ts":1681246826790026, "dur":184987, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1681246825231317, "dur":211, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1681246825231528, "dur":5933, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1681246825237470, "dur":80, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Samet Kser/Desktop/Online_Case_Study/deneme/deneme1/MonoBleedingEdge/etc/mono/4.5/web.config" }}
+,{ "pid":12345, "tid":5, "ts":1681246825237550, "dur":67, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1681246825237625, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1681246825239389, "dur":2625, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Samet Kser/Desktop/Online_Case_Study/deneme/deneme1/MonoBleedingEdge/etc/mono/4.5/web.config" }}
+,{ "pid":12345, "tid":5, "ts":1681246825242061, "dur":52, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Samet Kser/Desktop/Online_Case_Study/deneme/deneme1/MonoBleedingEdge/etc/mono/4.0/web.config" }}
+,{ "pid":12345, "tid":5, "ts":1681246825242113, "dur":23, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1681246825242143, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1681246825242225, "dur":2875, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Samet Kser/Desktop/Online_Case_Study/deneme/deneme1/MonoBleedingEdge/etc/mono/4.0/web.config" }}
+,{ "pid":12345, "tid":5, "ts":1681246825245144, "dur":45, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Samet Kser/Desktop/Online_Case_Study/deneme/deneme1/MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":5, "ts":1681246825245189, "dur":26, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1681246825245225, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1681246825245608, "dur":134592, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Samet Kser/Desktop/Online_Case_Study/deneme/deneme1/MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":5, "ts":1681246825380242, "dur":37, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Samet Kser/Desktop/Online_Case_Study/deneme/deneme1/Online_Case_Data/Managed/UnityEngine.VideoModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1681246825380279, "dur":10553, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1681246825390843, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1681246825390855, "dur":59078, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Samet Kser/Desktop/Online_Case_Study/deneme/deneme1/Online_Case_Data/Managed/UnityEngine.VideoModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1681246825450033, "dur":43, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Samet Kser/Desktop/Online_Case_Study/deneme/deneme1/Online_Case_Data/Managed/UnityEngine.UnityCurlModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1681246825450076, "dur":28, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1681246825450112, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1681246825450125, "dur":63241, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Samet Kser/Desktop/Online_Case_Study/deneme/deneme1/Online_Case_Data/Managed/UnityEngine.UnityCurlModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1681246825513402, "dur":34, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Samet Kser/Desktop/Online_Case_Study/deneme/deneme1/Online_Case_Data/Managed/UnityEngine.UIModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1681246825513436, "dur":24, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1681246825513467, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1681246825513476, "dur":45912, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Samet Kser/Desktop/Online_Case_Study/deneme/deneme1/Online_Case_Data/Managed/UnityEngine.UIModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1681246825559420, "dur":33, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Samet Kser/Desktop/Online_Case_Study/deneme/deneme1/Online_Case_Data/Managed/UnityEngine.TilemapModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1681246825559454, "dur":24, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1681246825559487, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1681246825559497, "dur":72918, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Samet Kser/Desktop/Online_Case_Study/deneme/deneme1/Online_Case_Data/Managed/UnityEngine.TilemapModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1681246825632466, "dur":32, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Samet Kser/Desktop/Online_Case_Study/deneme/deneme1/Online_Case_Data/Managed/UnityEngine.TerrainModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1681246825632498, "dur":31, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1681246825632535, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1681246825632547, "dur":105995, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Samet Kser/Desktop/Online_Case_Study/deneme/deneme1/Online_Case_Data/Managed/UnityEngine.TerrainModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1681246825738580, "dur":40, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Samet Kser/Desktop/Online_Case_Study/deneme/deneme1/Online_Case_Data/Managed/UnityEngine.SpriteMaskModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1681246825738621, "dur":27, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1681246825738654, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1681246825738664, "dur":38437, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Samet Kser/Desktop/Online_Case_Study/deneme/deneme1/Online_Case_Data/Managed/UnityEngine.SpriteMaskModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1681246825777135, "dur":30, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Samet Kser/Desktop/Online_Case_Study/deneme/deneme1/Online_Case_Data/Managed/UnityEngine.Physics2DModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1681246825777166, "dur":25, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1681246825777198, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1681246825777208, "dur":70673, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Samet Kser/Desktop/Online_Case_Study/deneme/deneme1/Online_Case_Data/Managed/UnityEngine.Physics2DModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1681246825847915, "dur":31, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Samet Kser/Desktop/Online_Case_Study/deneme/deneme1/Online_Case_Data/Managed/UnityEngine.InputModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1681246825847946, "dur":25, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1681246825847976, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1681246825847987, "dur":50158, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Samet Kser/Desktop/Online_Case_Study/deneme/deneme1/Online_Case_Data/Managed/UnityEngine.InputModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1681246825898198, "dur":33, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Samet Kser/Desktop/Online_Case_Study/deneme/deneme1/Online_Case_Data/Managed/UnityEngine.GameCenterModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1681246825898232, "dur":27, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1681246825898266, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1681246825898276, "dur":97597, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Samet Kser/Desktop/Online_Case_Study/deneme/deneme1/Online_Case_Data/Managed/UnityEngine.GameCenterModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1681246825995913, "dur":72, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Samet Kser/Desktop/Online_Case_Study/deneme/deneme1/Online_Case_Data/Managed/UnityEngine.AssetBundleModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1681246825995986, "dur":30, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1681246825996023, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1681246825996034, "dur":63902, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Samet Kser/Desktop/Online_Case_Study/deneme/deneme1/Online_Case_Data/Managed/UnityEngine.AssetBundleModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1681246826059966, "dur":110636, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Samet Kser/Desktop/Online_Case_Study/deneme/deneme1/Online_Case_Data/Managed/Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":5, "ts":1681246826170602, "dur":56, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1681246826170667, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1681246826170678, "dur":1485, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Samet Kser/Desktop/Online_Case_Study/deneme/deneme1/Online_Case_Data/Managed/Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":5, "ts":1681246826172201, "dur":50985, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Samet Kser/Desktop/Online_Case_Study/deneme/deneme1/Online_Case_Data/Managed/Unity.Services.Core.Registration.dll" }}
+,{ "pid":12345, "tid":5, "ts":1681246826223187, "dur":48, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1681246826223244, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1681246826223279, "dur":904, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Samet Kser/Desktop/Online_Case_Study/deneme/deneme1/Online_Case_Data/Managed/Unity.Services.Core.Registration.dll" }}
+,{ "pid":12345, "tid":5, "ts":1681246826224216, "dur":149803, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Samet Kser/Desktop/Online_Case_Study/deneme/deneme1/Online_Case_Data/Managed/Unity.Addressables.dll" }}
+,{ "pid":12345, "tid":5, "ts":1681246826374020, "dur":50, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1681246826374079, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1681246826374090, "dur":947, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Samet Kser/Desktop/Online_Case_Study/deneme/deneme1/Online_Case_Data/Managed/Unity.Addressables.dll" }}
+,{ "pid":12345, "tid":5, "ts":1681246826375072, "dur":29, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Samet Kser/Desktop/Online_Case_Study/deneme/deneme1/Online_Case_Data/Managed/System.Net.Http.dll" }}
+,{ "pid":12345, "tid":5, "ts":1681246826375102, "dur":24, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1681246826375131, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1681246826375139, "dur":129077, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Samet Kser/Desktop/Online_Case_Study/deneme/deneme1/Online_Case_Data/Managed/System.Net.Http.dll" }}
+,{ "pid":12345, "tid":5, "ts":1681246826504247, "dur":29, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Samet Kser/Desktop/Online_Case_Study/deneme/deneme1/Online_Case_Data/Managed/System.Data.dll" }}
+,{ "pid":12345, "tid":5, "ts":1681246826504276, "dur":27, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1681246826504309, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1681246826504319, "dur":261452, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Samet Kser/Desktop/Online_Case_Study/deneme/deneme1/Online_Case_Data/Managed/System.Data.dll" }}
+,{ "pid":12345, "tid":5, "ts":1681246826765805, "dur":38, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Samet Kser/Desktop/Online_Case_Study/deneme/deneme1/Online_Case_Data/StreamingAssets/aa/StandaloneWindows64/defaultlocalgroup_assets_all_5bf82278ca8865cbdba7c7024cc3a019.bundle" }}
+,{ "pid":12345, "tid":5, "ts":1681246826765847, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1681246826766043, "dur":11935, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Samet Kser/Desktop/Online_Case_Study/deneme/deneme1/Online_Case_Data/StreamingAssets/aa/StandaloneWindows64/defaultlocalgroup_assets_all_5bf82278ca8865cbdba7c7024cc3a019.bundle" }}
+,{ "pid":12345, "tid":5, "ts":1681246826778013, "dur":142, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Samet Kser/Desktop/Online_Case_Study/deneme/deneme1/Online_Case_Data/StreamingAssets/aa/AddressablesLink/link.xml" }}
+,{ "pid":12345, "tid":5, "ts":1681246826778187, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1681246826778405, "dur":913, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Samet Kser/Desktop/Online_Case_Study/deneme/deneme1/Online_Case_Data/StreamingAssets/aa/AddressablesLink/link.xml" }}
+,{ "pid":12345, "tid":5, "ts":1681246826779358, "dur":133, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Samet Kser/Desktop/Online_Case_Study/deneme/deneme1/Online_Case_Data/StreamingAssets/aa/settings.json" }}
+,{ "pid":12345, "tid":5, "ts":1681246826779492, "dur":24, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1681246826779523, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1681246826779533, "dur":666, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Samet Kser/Desktop/Online_Case_Study/deneme/deneme1/Online_Case_Data/StreamingAssets/aa/settings.json" }}
+,{ "pid":12345, "tid":5, "ts":1681246826780231, "dur":143, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Samet Kser/Desktop/Online_Case_Study/deneme/deneme1/Online_Case_Data/StreamingAssets/aa/catalog.json" }}
+,{ "pid":12345, "tid":5, "ts":1681246826780384, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1681246826780395, "dur":865, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Samet Kser/Desktop/Online_Case_Study/deneme/deneme1/Online_Case_Data/StreamingAssets/aa/catalog.json" }}
+,{ "pid":12345, "tid":5, "ts":1681246826781292, "dur":208, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Samet Kser/Desktop/Online_Case_Study/deneme/deneme1/Online_Case_Data/StreamingAssets/UnityServicesProjectConfiguration.json" }}
+,{ "pid":12345, "tid":5, "ts":1681246826781500, "dur":24, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1681246826781532, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1681246826781542, "dur":684, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Samet Kser/Desktop/Online_Case_Study/deneme/deneme1/Online_Case_Data/StreamingAssets/UnityServicesProjectConfiguration.json" }}
+,{ "pid":12345, "tid":5, "ts":1681246826782259, "dur":38, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Samet Kser/Desktop/Online_Case_Study/deneme/deneme1/Online_Case_Data/Resources/unity_builtin_extra" }}
+,{ "pid":12345, "tid":5, "ts":1681246826782305, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1681246826782368, "dur":1456, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Samet Kser/Desktop/Online_Case_Study/deneme/deneme1/Online_Case_Data/Resources/unity_builtin_extra" }}
+,{ "pid":12345, "tid":5, "ts":1681246826783892, "dur":63, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Samet Kser/Desktop/Online_Case_Study/deneme/deneme1/Online_Case_Data/sharedassets0.assets" }}
+,{ "pid":12345, "tid":5, "ts":1681246826783967, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1681246826783980, "dur":1641, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Samet Kser/Desktop/Online_Case_Study/deneme/deneme1/Online_Case_Data/sharedassets0.assets" }}
+,{ "pid":12345, "tid":5, "ts":1681246826785687, "dur":131, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Samet Kser/Desktop/Online_Case_Study/deneme/deneme1/Online_Case_Data/ScriptingAssemblies.json" }}
+,{ "pid":12345, "tid":5, "ts":1681246826785819, "dur":27, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1681246826785855, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1681246826785865, "dur":799, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Samet Kser/Desktop/Online_Case_Study/deneme/deneme1/Online_Case_Data/ScriptingAssemblies.json" }}
+,{ "pid":12345, "tid":5, "ts":1681246826786704, "dur":36, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Samet Kser/Desktop/Online_Case_Study/deneme/deneme1/Online_Case_Data/resources.assets.resS" }}
+,{ "pid":12345, "tid":5, "ts":1681246826786768, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1681246826786779, "dur":1131, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Samet Kser/Desktop/Online_Case_Study/deneme/deneme1/Online_Case_Data/resources.assets.resS" }}
+,{ "pid":12345, "tid":5, "ts":1681246826787945, "dur":32, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Samet Kser/Desktop/Online_Case_Study/deneme/deneme1/Online_Case_Data/level0" }}
+,{ "pid":12345, "tid":5, "ts":1681246826787982, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1681246826787990, "dur":866, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Samet Kser/Desktop/Online_Case_Study/deneme/deneme1/Online_Case_Data/level0" }}
+,{ "pid":12345, "tid":5, "ts":1681246826788889, "dur":161, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Samet Kser/Desktop/Online_Case_Study/deneme/deneme1/Online_Case_Data/boot.config" }}
+,{ "pid":12345, "tid":5, "ts":1681246826789051, "dur":54, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1681246826789111, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1681246826789117, "dur":1035, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Samet Kser/Desktop/Online_Case_Study/deneme/deneme1/Online_Case_Data/boot.config" }}
+,{ "pid":12345, "tid":5, "ts":1681246826790183, "dur":184828, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1681246825231352, "dur":184, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1681246825231536, "dur":5924, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1681246825237476, "dur":80, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Samet Kser/Desktop/Online_Case_Study/deneme/deneme1/MonoBleedingEdge/etc/mono/mconfig/config.xml" }}
+,{ "pid":12345, "tid":6, "ts":1681246825237557, "dur":67, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1681246825237629, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1681246825239524, "dur":2798, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Samet Kser/Desktop/Online_Case_Study/deneme/deneme1/MonoBleedingEdge/etc/mono/mconfig/config.xml" }}
+,{ "pid":12345, "tid":6, "ts":1681246825242362, "dur":44, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Samet Kser/Desktop/Online_Case_Study/deneme/deneme1/MonoBleedingEdge/etc/mono/4.0/machine.config" }}
+,{ "pid":12345, "tid":6, "ts":1681246825242407, "dur":25, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1681246825242457, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1681246825242465, "dur":5623, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Samet Kser/Desktop/Online_Case_Study/deneme/deneme1/MonoBleedingEdge/etc/mono/4.0/machine.config" }}
+,{ "pid":12345, "tid":6, "ts":1681246825248131, "dur":36, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Samet Kser/Desktop/Online_Case_Study/deneme/deneme1/Online_Case_Data/Managed/UnityEngine.WindModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1681246825248167, "dur":24, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1681246825248198, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1681246825248240, "dur":194981, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Samet Kser/Desktop/Online_Case_Study/deneme/deneme1/Online_Case_Data/Managed/UnityEngine.WindModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1681246825443264, "dur":39, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Samet Kser/Desktop/Online_Case_Study/deneme/deneme1/Online_Case_Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1681246825443303, "dur":43, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1681246825443360, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1681246825443373, "dur":115359, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Samet Kser/Desktop/Online_Case_Study/deneme/deneme1/Online_Case_Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1681246825558774, "dur":38, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Samet Kser/Desktop/Online_Case_Study/deneme/deneme1/Online_Case_Data/Managed/UnityEngine.TLSModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1681246825558813, "dur":49, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1681246825558869, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1681246825558902, "dur":52926, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Samet Kser/Desktop/Online_Case_Study/deneme/deneme1/Online_Case_Data/Managed/UnityEngine.TLSModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1681246825611863, "dur":35, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Samet Kser/Desktop/Online_Case_Study/deneme/deneme1/Online_Case_Data/Managed/UnityEngine.TextCoreFontEngineModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1681246825611899, "dur":25, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1681246825611935, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1681246825611945, "dur":105239, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Samet Kser/Desktop/Online_Case_Study/deneme/deneme1/Online_Case_Data/Managed/UnityEngine.TextCoreFontEngineModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1681246825717244, "dur":160, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Samet Kser/Desktop/Online_Case_Study/deneme/deneme1/Online_Case_Data/Managed/UnityEngine.SpriteShapeModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1681246825717406, "dur":472, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1681246825717892, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1681246825717917, "dur":47553, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Samet Kser/Desktop/Online_Case_Study/deneme/deneme1/Online_Case_Data/Managed/UnityEngine.SpriteShapeModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1681246825765505, "dur":32, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Samet Kser/Desktop/Online_Case_Study/deneme/deneme1/Online_Case_Data/Managed/UnityEngine.ProfilerModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1681246825765538, "dur":24, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1681246825765569, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1681246825765579, "dur":32098, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Samet Kser/Desktop/Online_Case_Study/deneme/deneme1/Online_Case_Data/Managed/UnityEngine.ProfilerModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1681246825797714, "dur":36, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Samet Kser/Desktop/Online_Case_Study/deneme/deneme1/Online_Case_Data/Managed/UnityEngine.ParticleSystemModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1681246825797750, "dur":28, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1681246825797786, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1681246825797796, "dur":116380, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Samet Kser/Desktop/Online_Case_Study/deneme/deneme1/Online_Case_Data/Managed/UnityEngine.ParticleSystemModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1681246825914209, "dur":31, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Samet Kser/Desktop/Online_Case_Study/deneme/deneme1/Online_Case_Data/Managed/UnityEngine.dll" }}
+,{ "pid":12345, "tid":6, "ts":1681246825914240, "dur":27, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1681246825914273, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1681246825914283, "dur":85574, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Samet Kser/Desktop/Online_Case_Study/deneme/deneme1/Online_Case_Data/Managed/UnityEngine.dll" }}
+,{ "pid":12345, "tid":6, "ts":1681246825999909, "dur":1328, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Samet Kser/Desktop/Online_Case_Study/deneme/deneme1/Online_Case_Data/Managed/UnityEngine.ARModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1681246826001238, "dur":39, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1681246826001286, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1681246826001298, "dur":43284, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Samet Kser/Desktop/Online_Case_Study/deneme/deneme1/Online_Case_Data/Managed/UnityEngine.ARModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1681246826044618, "dur":34, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Samet Kser/Desktop/Online_Case_Study/deneme/deneme1/Online_Case_Data/Managed/UnityEngine.AccessibilityModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1681246826044652, "dur":26, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1681246826044685, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1681246826044696, "dur":43637, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Samet Kser/Desktop/Online_Case_Study/deneme/deneme1/Online_Case_Data/Managed/UnityEngine.AccessibilityModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1681246826088370, "dur":149696, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Samet Kser/Desktop/Online_Case_Study/deneme/deneme1/Online_Case_Data/Managed/Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":6, "ts":1681246826238067, "dur":54, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1681246826238129, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1681246826238140, "dur":1076, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Samet Kser/Desktop/Online_Case_Study/deneme/deneme1/Online_Case_Data/Managed/Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":6, "ts":1681246826239256, "dur":42, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Samet Kser/Desktop/Online_Case_Study/deneme/deneme1/Online_Case_Data/Managed/System.Transactions.dll" }}
+,{ "pid":12345, "tid":6, "ts":1681246826239299, "dur":29, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1681246826239334, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1681246826239344, "dur":113685, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Samet Kser/Desktop/Online_Case_Study/deneme/deneme1/Online_Case_Data/Managed/System.Transactions.dll" }}
+,{ "pid":12345, "tid":6, "ts":1681246826353067, "dur":32, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Samet Kser/Desktop/Online_Case_Study/deneme/deneme1/Online_Case_Data/Managed/System.Numerics.dll" }}
+,{ "pid":12345, "tid":6, "ts":1681246826353100, "dur":29, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1681246826353135, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1681246826353146, "dur":119342, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Samet Kser/Desktop/Online_Case_Study/deneme/deneme1/Online_Case_Data/Managed/System.Numerics.dll" }}
+,{ "pid":12345, "tid":6, "ts":1681246826472531, "dur":42, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Samet Kser/Desktop/Online_Case_Study/deneme/deneme1/Online_Case_Data/Managed/System.Drawing.dll" }}
+,{ "pid":12345, "tid":6, "ts":1681246826472574, "dur":29, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1681246826472611, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1681246826472625, "dur":321565, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Samet Kser/Desktop/Online_Case_Study/deneme/deneme1/Online_Case_Data/Managed/System.Drawing.dll" }}
+,{ "pid":12345, "tid":6, "ts":1681246826794222, "dur":180790, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1681246825231128, "dur":385, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1681246825231516, "dur":5939, "ph":"X", "name": "CheckDagSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1681246825237470, "dur":1, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"WriteText Library/Bee/artifacts/WinPlayerBuildProgram/Data/app.info" }}
+,{ "pid":12345, "tid":7, "ts":1681246825237474, "dur":67, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1681246825237547, "dur":2, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Samet Kser/Desktop/Online_Case_Study/deneme/deneme1/Online_Case_Data/app.info" }}
+,{ "pid":12345, "tid":7, "ts":1681246825237549, "dur":64, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1681246825237618, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1681246825238878, "dur":3230, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Samet Kser/Desktop/Online_Case_Study/deneme/deneme1/Online_Case_Data/app.info" }}
+,{ "pid":12345, "tid":7, "ts":1681246825242109, "dur":60, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Samet Kser/Desktop/Online_Case_Study/deneme/deneme1/MonoBleedingEdge/etc/mono/4.0/settings.map" }}
+,{ "pid":12345, "tid":7, "ts":1681246825242169, "dur":47, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1681246825242224, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1681246825242234, "dur":2779, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Samet Kser/Desktop/Online_Case_Study/deneme/deneme1/MonoBleedingEdge/etc/mono/4.0/settings.map" }}
+,{ "pid":12345, "tid":7, "ts":1681246825245055, "dur":99, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Samet Kser/Desktop/Online_Case_Study/deneme/deneme1/MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll" }}
+,{ "pid":12345, "tid":7, "ts":1681246825245154, "dur":33, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1681246825245196, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1681246825245619, "dur":3973, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Samet Kser/Desktop/Online_Case_Study/deneme/deneme1/MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll" }}
+,{ "pid":12345, "tid":7, "ts":1681246825249641, "dur":42, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Samet Kser/Desktop/Online_Case_Study/deneme/deneme1/Online_Case_Data/Managed/UnityEngine.VRModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1681246825249684, "dur":23, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1681246825249714, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1681246825249725, "dur":141605, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Samet Kser/Desktop/Online_Case_Study/deneme/deneme1/Online_Case_Data/Managed/UnityEngine.VRModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1681246825391370, "dur":52, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Samet Kser/Desktop/Online_Case_Study/deneme/deneme1/Online_Case_Data/Managed/UnityEngine.VFXModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1681246825391423, "dur":27, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1681246825391477, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1681246825391486, "dur":54519, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Samet Kser/Desktop/Online_Case_Study/deneme/deneme1/Online_Case_Data/Managed/UnityEngine.VFXModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1681246825446050, "dur":35, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Samet Kser/Desktop/Online_Case_Study/deneme/deneme1/Online_Case_Data/Managed/UnityEngine.UnityTestProtocolModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1681246825446086, "dur":462, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1681246825446556, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1681246825446566, "dur":38366, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Samet Kser/Desktop/Online_Case_Study/deneme/deneme1/Online_Case_Data/Managed/UnityEngine.UnityTestProtocolModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1681246825484965, "dur":35, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Samet Kser/Desktop/Online_Case_Study/deneme/deneme1/Online_Case_Data/Managed/UnityEngine.UNETModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1681246825485001, "dur":24, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1681246825485032, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1681246825485042, "dur":93998, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Samet Kser/Desktop/Online_Case_Study/deneme/deneme1/Online_Case_Data/Managed/UnityEngine.UNETModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1681246825579080, "dur":40, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Samet Kser/Desktop/Online_Case_Study/deneme/deneme1/Online_Case_Data/Managed/UnityEngine.TextRenderingModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1681246825579120, "dur":40, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1681246825579167, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1681246825579177, "dur":60633, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Samet Kser/Desktop/Online_Case_Study/deneme/deneme1/Online_Case_Data/Managed/UnityEngine.TextRenderingModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1681246825639854, "dur":40, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Samet Kser/Desktop/Online_Case_Study/deneme/deneme1/Online_Case_Data/Managed/UnityEngine.SubstanceModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1681246825639894, "dur":26, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1681246825639927, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1681246825639942, "dur":108227, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Samet Kser/Desktop/Online_Case_Study/deneme/deneme1/Online_Case_Data/Managed/UnityEngine.SubstanceModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1681246825748211, "dur":37, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Samet Kser/Desktop/Online_Case_Study/deneme/deneme1/Online_Case_Data/Managed/UnityEngine.ScreenCaptureModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1681246825748248, "dur":28, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1681246825748284, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1681246825748296, "dur":36907, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Samet Kser/Desktop/Online_Case_Study/deneme/deneme1/Online_Case_Data/Managed/UnityEngine.ScreenCaptureModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1681246825785243, "dur":43, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Samet Kser/Desktop/Online_Case_Study/deneme/deneme1/Online_Case_Data/Managed/UnityEngine.PerformanceReportingModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1681246825785287, "dur":31, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1681246825785350, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1681246825785361, "dur":62801, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Samet Kser/Desktop/Online_Case_Study/deneme/deneme1/Online_Case_Data/Managed/UnityEngine.PerformanceReportingModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1681246825848195, "dur":31, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Samet Kser/Desktop/Online_Case_Study/deneme/deneme1/Online_Case_Data/Managed/UnityEngine.InputLegacyModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1681246825848227, "dur":34, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1681246825848267, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1681246825848276, "dur":67067, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Samet Kser/Desktop/Online_Case_Study/deneme/deneme1/Online_Case_Data/Managed/UnityEngine.InputLegacyModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1681246825915378, "dur":33, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Samet Kser/Desktop/Online_Case_Study/deneme/deneme1/Online_Case_Data/Managed/UnityEngine.DirectorModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1681246825915411, "dur":27, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1681246825915444, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1681246825915454, "dur":94415, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Samet Kser/Desktop/Online_Case_Study/deneme/deneme1/Online_Case_Data/Managed/UnityEngine.DirectorModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1681246826009908, "dur":35, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Samet Kser/Desktop/Online_Case_Study/deneme/deneme1/Online_Case_Data/Managed/UnityEngine.AndroidJNIModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1681246826009944, "dur":28, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1681246826009979, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1681246826009990, "dur":294854, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Samet Kser/Desktop/Online_Case_Study/deneme/deneme1/Online_Case_Data/Managed/UnityEngine.AndroidJNIModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1681246826304881, "dur":34, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Samet Kser/Desktop/Online_Case_Study/deneme/deneme1/Online_Case_Data/Managed/System.Security.dll" }}
+,{ "pid":12345, "tid":7, "ts":1681246826304916, "dur":28, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1681246826304951, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1681246826304962, "dur":290007, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Samet Kser/Desktop/Online_Case_Study/deneme/deneme1/Online_Case_Data/Managed/System.Security.dll" }}
+,{ "pid":12345, "tid":7, "ts":1681246826595003, "dur":31, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Samet Kser/Desktop/Online_Case_Study/deneme/deneme1/Online_Case_Data/Managed/netstandard.dll" }}
+,{ "pid":12345, "tid":7, "ts":1681246826595035, "dur":26, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1681246826595067, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1681246826595078, "dur":53774, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Samet Kser/Desktop/Online_Case_Study/deneme/deneme1/Online_Case_Data/Managed/netstandard.dll" }}
+,{ "pid":12345, "tid":7, "ts":1681246826648885, "dur":36, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Samet Kser/Desktop/Online_Case_Study/deneme/deneme1/Online_Case_Data/Managed/mscorlib.dll" }}
+,{ "pid":12345, "tid":7, "ts":1681246826648922, "dur":26, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1681246826648955, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1681246826648970, "dur":325998, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Samet Kser/Desktop/Online_Case_Study/deneme/deneme1/Online_Case_Data/Managed/mscorlib.dll" }}
+,{ "pid":12345, "tid":7, "ts":1681246826974990, "dur":1, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"Player" }}
+,{ "pid":12345, "tid":7, "ts":1681246826974992, "dur":0, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1681246825231563, "dur":0, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1681246825231564, "dur":5932, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1681246825237497, "dur":54, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Samet Kser/Desktop/Online_Case_Study/deneme/deneme1/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":8, "ts":1681246825237551, "dur":51, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1681246825237608, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1681246825239538, "dur":2846, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Samet Kser/Desktop/Online_Case_Study/deneme/deneme1/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":8, "ts":1681246825242423, "dur":41, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Samet Kser/Desktop/Online_Case_Study/deneme/deneme1/MonoBleedingEdge/etc/mono/2.0/web.config" }}
+,{ "pid":12345, "tid":8, "ts":1681246825242464, "dur":31, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1681246825242500, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1681246825242773, "dur":900, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Samet Kser/Desktop/Online_Case_Study/deneme/deneme1/MonoBleedingEdge/etc/mono/2.0/web.config" }}
+,{ "pid":12345, "tid":8, "ts":1681246825243721, "dur":45, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Samet Kser/Desktop/Online_Case_Study/deneme/deneme1/MonoBleedingEdge/etc/mono/2.0/machine.config" }}
+,{ "pid":12345, "tid":8, "ts":1681246825243766, "dur":22, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1681246825243793, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1681246825243825, "dur":1021, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Samet Kser/Desktop/Online_Case_Study/deneme/deneme1/MonoBleedingEdge/etc/mono/2.0/machine.config" }}
+,{ "pid":12345, "tid":8, "ts":1681246825244880, "dur":44, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Samet Kser/Desktop/Online_Case_Study/deneme/deneme1/MonoBleedingEdge/etc/mono/browscap.ini" }}
+,{ "pid":12345, "tid":8, "ts":1681246825244924, "dur":21, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1681246825244951, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1681246825244962, "dur":1104, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Samet Kser/Desktop/Online_Case_Study/deneme/deneme1/MonoBleedingEdge/etc/mono/browscap.ini" }}
+,{ "pid":12345, "tid":8, "ts":1681246825246108, "dur":45, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Samet Kser/Desktop/Online_Case_Study/deneme/deneme1/Online_Case_Data/Managed/UnityEngine.XRModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1681246825246153, "dur":63, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1681246825246226, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1681246825246430, "dur":145234, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Samet Kser/Desktop/Online_Case_Study/deneme/deneme1/Online_Case_Data/Managed/UnityEngine.XRModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1681246825391703, "dur":49, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Samet Kser/Desktop/Online_Case_Study/deneme/deneme1/Online_Case_Data/Managed/UnityEngine.VehiclesModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1681246825391753, "dur":25, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1681246825391789, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1681246825391797, "dur":31019, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Samet Kser/Desktop/Online_Case_Study/deneme/deneme1/Online_Case_Data/Managed/UnityEngine.VehiclesModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1681246825422852, "dur":34, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Samet Kser/Desktop/Online_Case_Study/deneme/deneme1/Online_Case_Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1681246825422886, "dur":25, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1681246825422917, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1681246825422928, "dur":60309, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Samet Kser/Desktop/Online_Case_Study/deneme/deneme1/Online_Case_Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1681246825483271, "dur":34, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Samet Kser/Desktop/Online_Case_Study/deneme/deneme1/Online_Case_Data/Managed/UnityEngine.UnityAnalyticsCommonModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1681246825483305, "dur":25, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1681246825483336, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1681246825483346, "dur":28445, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Samet Kser/Desktop/Online_Case_Study/deneme/deneme1/Online_Case_Data/Managed/UnityEngine.UnityAnalyticsCommonModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1681246825511839, "dur":41, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Samet Kser/Desktop/Online_Case_Study/deneme/deneme1/Online_Case_Data/Managed/UnityEngine.UmbraModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1681246825511881, "dur":30, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1681246825511918, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1681246825511951, "dur":33968, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Samet Kser/Desktop/Online_Case_Study/deneme/deneme1/Online_Case_Data/Managed/UnityEngine.UmbraModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1681246825545954, "dur":345661, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Samet Kser/Desktop/Online_Case_Study/deneme/deneme1/Online_Case_Data/Managed/UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":8, "ts":1681246825891616, "dur":52, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1681246825891799, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1681246825891810, "dur":1069, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Samet Kser/Desktop/Online_Case_Study/deneme/deneme1/Online_Case_Data/Managed/UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":8, "ts":1681246825892915, "dur":33, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Samet Kser/Desktop/Online_Case_Study/deneme/deneme1/Online_Case_Data/Managed/UnityEngine.GIModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1681246825892949, "dur":30, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1681246825892985, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1681246825892994, "dur":36822, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Samet Kser/Desktop/Online_Case_Study/deneme/deneme1/Online_Case_Data/Managed/UnityEngine.GIModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1681246825929852, "dur":38, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Samet Kser/Desktop/Online_Case_Study/deneme/deneme1/Online_Case_Data/Managed/UnityEngine.CrashReportingModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1681246825929891, "dur":27, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1681246825929925, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1681246825929935, "dur":31508, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Samet Kser/Desktop/Online_Case_Study/deneme/deneme1/Online_Case_Data/Managed/UnityEngine.CrashReportingModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1681246825961478, "dur":33, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Samet Kser/Desktop/Online_Case_Study/deneme/deneme1/Online_Case_Data/Managed/UnityEngine.ClusterRendererModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1681246825961512, "dur":27, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1681246825961546, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1681246825961556, "dur":25537, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Samet Kser/Desktop/Online_Case_Study/deneme/deneme1/Online_Case_Data/Managed/UnityEngine.ClusterRendererModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1681246825987132, "dur":35, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Samet Kser/Desktop/Online_Case_Study/deneme/deneme1/Online_Case_Data/Managed/UnityEngine.AudioModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1681246825987167, "dur":30, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1681246825987203, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1681246825987214, "dur":66429, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Samet Kser/Desktop/Online_Case_Study/deneme/deneme1/Online_Case_Data/Managed/UnityEngine.AudioModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1681246826053675, "dur":69787, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Samet Kser/Desktop/Online_Case_Study/deneme/deneme1/Online_Case_Data/Managed/Unity.VisualScripting.State.dll" }}
+,{ "pid":12345, "tid":8, "ts":1681246826123463, "dur":42, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1681246826123538, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1681246826123550, "dur":1077, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Samet Kser/Desktop/Online_Case_Study/deneme/deneme1/Online_Case_Data/Managed/Unity.VisualScripting.State.dll" }}
+,{ "pid":12345, "tid":8, "ts":1681246826124660, "dur":873, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Samet Kser/Desktop/Online_Case_Study/deneme/deneme1/Online_Case_Data/Managed/Unity.Services.Core.Threading.dll" }}
+,{ "pid":12345, "tid":8, "ts":1681246826125534, "dur":48, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1681246826125590, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1681246826125600, "dur":818, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Samet Kser/Desktop/Online_Case_Study/deneme/deneme1/Online_Case_Data/Managed/Unity.Services.Core.Threading.dll" }}
+,{ "pid":12345, "tid":8, "ts":1681246826126452, "dur":65605, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Samet Kser/Desktop/Online_Case_Study/deneme/deneme1/Online_Case_Data/Managed/Unity.Services.Core.Telemetry.dll" }}
+,{ "pid":12345, "tid":8, "ts":1681246826192058, "dur":34, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1681246826192099, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1681246826192108, "dur":1135, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Samet Kser/Desktop/Online_Case_Study/deneme/deneme1/Online_Case_Data/Managed/Unity.Services.Core.Telemetry.dll" }}
+,{ "pid":12345, "tid":8, "ts":1681246826193273, "dur":799, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Samet Kser/Desktop/Online_Case_Study/deneme/deneme1/Online_Case_Data/Managed/Unity.Services.Core.Device.dll" }}
+,{ "pid":12345, "tid":8, "ts":1681246826194073, "dur":40, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1681246826194144, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1681246826194155, "dur":1094, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Samet Kser/Desktop/Online_Case_Study/deneme/deneme1/Online_Case_Data/Managed/Unity.Services.Core.Device.dll" }}
+,{ "pid":12345, "tid":8, "ts":1681246826195286, "dur":32719, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Samet Kser/Desktop/Online_Case_Study/deneme/deneme1/Online_Case_Data/Managed/Unity.Services.Core.Configuration.dll" }}
+,{ "pid":12345, "tid":8, "ts":1681246826228005, "dur":58, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1681246826228072, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1681246826228083, "dur":1034, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Samet Kser/Desktop/Online_Case_Study/deneme/deneme1/Online_Case_Data/Managed/Unity.Services.Core.Configuration.dll" }}
+,{ "pid":12345, "tid":8, "ts":1681246826229151, "dur":34, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Samet Kser/Desktop/Online_Case_Study/deneme/deneme1/Online_Case_Data/Managed/System.Xml.dll" }}
+,{ "pid":12345, "tid":8, "ts":1681246826229186, "dur":24, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1681246826229216, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1681246826229225, "dur":316890, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Samet Kser/Desktop/Online_Case_Study/deneme/deneme1/Online_Case_Data/Managed/System.Xml.dll" }}
+,{ "pid":12345, "tid":8, "ts":1681246826546148, "dur":34, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Samet Kser/Desktop/Online_Case_Study/deneme/deneme1/Online_Case_Data/Managed/System.Core.dll" }}
+,{ "pid":12345, "tid":8, "ts":1681246826546183, "dur":28, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1681246826546218, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1681246826546228, "dur":198036, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Samet Kser/Desktop/Online_Case_Study/deneme/deneme1/Online_Case_Data/Managed/System.Core.dll" }}
+,{ "pid":12345, "tid":8, "ts":1681246826744298, "dur":104036, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Samet Kser/Desktop/Online_Case_Study/deneme/deneme1/Online_Case_Data/Managed/LucidSight.Runtime.ColyseusSDK.dll" }}
+,{ "pid":12345, "tid":8, "ts":1681246826848334, "dur":54, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1681246826848394, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1681246826848402, "dur":972, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Samet Kser/Desktop/Online_Case_Study/deneme/deneme1/Online_Case_Data/Managed/LucidSight.Runtime.ColyseusSDK.dll" }}
+,{ "pid":12345, "tid":8, "ts":1681246826849413, "dur":125602, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1681246826978145, "dur":1982, "ph":"X", "name": "ProfilerWriteOutput" }
+,
